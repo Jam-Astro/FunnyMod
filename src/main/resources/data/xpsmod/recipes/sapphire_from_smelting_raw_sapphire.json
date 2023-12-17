@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experince": 0.7,
+  "group": "sapphire",
+  "ingredient": {
+    "item": "xpsmod:rax_sapphire"
+  },
+  "result": "xpsmod:sapphire"
+}
