@@ -3,6 +3,8 @@
   "item.xpsmod.raw_sapphire": "Raw sapphire",
   "block.xpsmod.sapphire_block": "Sapphire block",
   "block.xpsmod.raw_sapphire_block": "Raw sapphire block",
+  "block.xpsmod.sapphire_ore": "Sapphire Ore",
+  "block.xpsmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
 
   "creative.xps_tab": "XPS tab"
 }
